@@ -1,2 +1,3 @@
 node_modules/
 *.key
+.hubot_history
